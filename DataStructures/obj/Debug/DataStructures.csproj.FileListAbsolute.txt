@@ -3,3 +3,5 @@ C:\Users\karthik\DS-Algos-C#\DataStructures\bin\Debug\DataStructures.pdb
 C:\Users\karthik\DS-Algos-C#\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
 C:\Users\karthik\DS-Algos-C#\DataStructures\obj\Debug\DataStructures.exe
 C:\Users\karthik\DS-Algos-C#\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\karthik\C-sharp-Algos\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\karthik\C-sharp-Algos\DataStructures\obj\Debug\DataStructures.pdb
