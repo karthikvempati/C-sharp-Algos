@@ -1,0 +1,25 @@
+public class Solution {
+    public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
+        int m = nums1.Length;
+        int n = nums2.Length;
+        int mStartIndex = 0, nStartIndex = 0;
+        int mEndIndex = 0, nEndIndex = 0; 
+    } 
+    
+    public double GetMedian(int[] nums1, int[] nums2, int mStart, int mEnd, int nStart, int nEnd){
+        double median1 = GetMedian(nums1, mStart, mEnd);
+        double median2 = GetMedian(nums2, nStart, nEnd)
+        if(median1 == median2)
+            return GetMedian(nums1, mStartIndex, mEndIndex);
+        else if(median1 < median2)
+            return  
+    }
+    
+    public double GetMedian(int[] nums, startIndex, endIndex){
+         
+        if(len % 2 == 0)
+            return (nums[len/2-1] + nums[len/2]);
+        else
+            return nums[len/2];
+    }
+}
